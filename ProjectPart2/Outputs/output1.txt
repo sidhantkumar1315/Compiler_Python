@@ -1,0 +1,37 @@
+value
+    dict
+        {
+        Pair
+            STRING: Name
+            :
+            value
+                STRING: Sidhant
+        ,
+        Pair
+            STRING: Banner ID
+            :
+            value
+                STRING: B00961444
+        ,
+        Pair
+            STRING: Courses
+            :
+            value
+                list
+                    [
+                    value
+                        STRING: STAT 2060
+                    ,
+                    value
+                        STRING: CSCI 2100
+                    ,
+                    value
+                        STRING: CSCI 2110
+                    ,
+                    value
+                        STRING: CSCI 2115
+                    ,
+                    value
+                        STRING: CSCI 2134
+                    ]
+        }
