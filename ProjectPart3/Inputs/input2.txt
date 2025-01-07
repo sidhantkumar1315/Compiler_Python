@@ -1,0 +1,9 @@
+<LPAREN, '{'>
+<STRING, ' '>
+<COLON, ':'>
+<NUMBER, 123.0>
+<COMMA, ','>
+<STRING, 'ABC'>
+<COLON, ':'>
+<NUMBER, 456.0>
+<RPAREN, '}'>

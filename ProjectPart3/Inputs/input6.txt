@@ -1,0 +1,7 @@
+<LBRAC, '['>
+<STRING, 'ABC'>
+<COMMA, ','>
+<NUMBER, 123.0>
+<COMMA, ','>
+<NUMBER, 456.13>
+<RBRAC, ']'>

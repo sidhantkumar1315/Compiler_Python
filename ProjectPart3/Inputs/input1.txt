@@ -1,0 +1,7 @@
+<LBRAC, '['>
+<NUMBER, .3>
+<COMMA, ','>
+<NUMBER, 123.0>
+<COMMA, ','>
+<NUMBER, 456.78>
+<RBRAC, ']'>

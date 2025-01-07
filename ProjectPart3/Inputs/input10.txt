@@ -1,0 +1,23 @@
+<LPAREN, '{'>
+<STRING, 'Name'>
+<COLON, ':'>
+<STRING, 'Sidhant'>
+<COMMA, ','>
+<STRING, 'Banner ID'>
+<COLON, ':'>
+<STRING, 'B00961444'>
+<COMMA, ','>
+<STRING, 'Courses'>
+<COLON, ':'>
+<LBRAC, '['>
+<STRING, 'STAT 2060'>
+<COMMA, ','>
+<STRING, 'CSCI 2100'>
+<COMMA, ','>
+<STRING, 'CSCI 2110'>
+<COMMA, ','>
+<STRING, 'CSCI 2115'>
+<COMMA, ','>
+<STRING, 'CSCI 2134'>
+<RBRAC, ']'>
+<RPAREN, '}'>

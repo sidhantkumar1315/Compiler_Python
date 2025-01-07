@@ -1,0 +1,7 @@
+<LBRAC, '['>
+<STRING, 'true'>
+<COMMA, ','>
+<STRING, 'false'>
+<COMMA, ','>
+<STRING, 'Hello'>
+<RBRAC, ']'>

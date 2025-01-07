@@ -1,0 +1,15 @@
+dict
+    Pair
+        STRING: Name
+        STRING: Sidhant
+    Pair
+        STRING: Banner ID
+        STRING: B00961444
+    Pair
+        STRING: Courses
+        list
+            STRING: STAT 2060
+            STRING: CSCI 2100
+            STRING: CSCI 2110
+            STRING: CSCI 2115
+            STRING: CSCI 2134
